@@ -1,10 +1,4 @@
-### SXYZ
-#### I'm SYXZ. I'm an indie game developer in my spare time. I also work on music.
-#### Check out my [YouTube](https://www.youtube.com/SYXZ14) where I upload my music and video games.
+Game Development Masters Student, Musican & Indie Game Developer.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SYXZyt/count.svg" />
-</p>
-
-#### [My Website](https://syxzyt.github.io)
+Find me on [YouTube](https://www.youtube.com/SYXZ14), [LinkedIn](https://www.linkedin.com/in/jake-milner-38261a281/)
+[My Website](https://syxzyt.github.io)
